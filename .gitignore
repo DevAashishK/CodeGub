@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AwsMVCCode/.vs/AwsMVCCode/config
+/AwsMVCCode/.vs/AwsMVCCode/v16
+/AwsMVCCode/AwsMVCCode/bin
+/AwsMVCCode/AwsMVCCode/obj/Debug
